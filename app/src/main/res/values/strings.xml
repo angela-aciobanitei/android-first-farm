@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Farm</string>
+    <string name="welcome_message">Welcome to McShepperd Farm!</string>
+    <string name="about_us">Inspired by the idea of farming organically and sustainably, our parents started this farm in 1976. Every day, we are humbled to carry on this tradition and watch the support grow, thanks to you!</string>
+    <string name="location">Main St, Stretton-under-Fosse, Warwickshire</string>
+    <string name="schedule">Mon - Fri: 7am - 6pm</string>
+    <string name="phone">(+44) 0745 359 359</string>
+    <string name="contact_us">contactus@mcshepperedfarm.com</string>
+</resources>
